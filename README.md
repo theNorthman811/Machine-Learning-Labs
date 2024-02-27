@@ -19,6 +19,7 @@ The dataset used in this project is a curated collection of books sourced from G
 ## Technologies Used
 
 - Python
+- pycaret
 - Scikit-learn
 - Pandas
 - NumPy
@@ -31,7 +32,7 @@ To use the Book Rating Prediction Model:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the Jupyter Notebook `ProjetMLV2.ipynb` to explore the dataset, train the model, and make predictions.
+3. Run the Jupyter Notebook  to explore the dataset, train the model, and make predictions.
 4. Experiment with different machine learning algorithms and hyperparameters to improve the model's performance.
 
 ## Results
